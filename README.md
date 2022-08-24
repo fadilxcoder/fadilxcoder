@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fadilxcoder" alt="fadilxcoder" /></a> </p>
 
-<p align="left">![Maintainer](https://img.shields.io/badge/Profile views-15.5k-blue)</p>
+![Maintainer](https://img.shields.io/badge/Profile views-15.5k-blue)
 
 
 <br>
