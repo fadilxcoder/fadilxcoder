@@ -2,14 +2,6 @@
 <h3 align="center">Web & App Developer / DevOps</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fadilxcoder&theme=onedark&row=2&column=4" alt="fadilxcoder" /></a> </p>
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/fadilxcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fadilxcoder" height="30" width="40" /></a>
-</p>
-
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
